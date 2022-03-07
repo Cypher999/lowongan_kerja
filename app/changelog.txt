@@ -1,0 +1,16 @@
+-perbaikan bug
+-penyempurnaan fitur "lupa password"
+-penambahan opsi "hapus perusahaan"
+-perbaikan dibagian data user (user perusahaan
+ jika tidak memiliki perusahaan maka ikon "lihat profil"
+ hanya berwarna abu-abu")
+-penambahan opsi "reject perusahaan" lengkap dengan notifikasi email dan
+ keterangan reject
+-perbaikan tampilan dibeberapa fitur
+
+26/03/2021
+-Perubahan URL email, sehingga semua url mengikuti nilai base_url
+-Penambahan fitur customer care
+-penambahan batas waktu tes , dari yang semula cuma 5 detik menjadi 30 menit
+-Penambahan fitur kritik perusahaan dan report
+-fitur pemulihan password dilengkapi dengan notifikasi email
